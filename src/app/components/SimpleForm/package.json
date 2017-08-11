@@ -1,0 +1,5 @@
+{
+    "name": "SimpleForm",
+    "main": "SimpleForm.js",
+    "storybook": "SimpleFormStory.js"
+}

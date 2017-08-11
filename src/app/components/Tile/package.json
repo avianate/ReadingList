@@ -1,0 +1,5 @@
+{
+    "name": "Tile",
+    "main": "Tile.js",
+    "storybook": "TileStory.js"
+}
